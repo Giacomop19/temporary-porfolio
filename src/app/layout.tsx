@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
+import IconSideNav from "@/components/sideNav";
+import IconHeader from "@/components/iconHeader";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -25,10 +27,17 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
-      >
-        {children}
+      <body className={`${geistSans.variable} ${geistMono.variable} antialiased`} >
+        <header style={{display:"flex"}} className="p-2">
+          <IconHeader/>
+          <button style={{marginLeft:"auto"}} className="transition ease-in-out delay-150 bg-transparent hover:bg-indigo-600 hover:scale-110 duration-300 border border-indigo-600 text-white py-2 px-3 rounded-md">
+            <p style={{fontSize:13}}>My Resume</p>
+          </button>  
+        </header>
+        <div className="flex h-screen">
+          <IconSideNav/>
+          {children}
+        </div>
       </body>
     </html>
   );
