@@ -1,5 +1,3 @@
-import Image from "next/image";
-import { useRouter } from "next/router";
 import About from "./about/page";
 import Projects from "./projects/page";
 import Experience from "./experience/page";

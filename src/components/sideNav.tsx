@@ -1,6 +1,6 @@
 "use client"
 import { AnimatePresence, motion } from "framer-motion";
-import { useState } from "react";
+import { useState, ReactNode, Dispatch, SetStateAction } from "react";
 import { VerticalText } from "./verticalText";
 
 
@@ -11,6 +11,13 @@ const IconSideNav = () => {
     </div>
   );
 };
+
+interface RefProps{
+  children: ReactNode,
+  selected:boolean,
+  id:number,
+  setSelected: (Dispatch<SetStateAction<number>>)
+}
 
 const SideNav = () => {
   const [selected, setSelected] = useState(0);
@@ -30,7 +37,7 @@ const SideNav = () => {
   );
 };
 
-const NavItem = ({ children, selected, id, setSelected }) => {
+const NavItem = ({ children, selected, id, setSelected }: RefProps) => {
   return (
     <motion.button
       className="p-3 bg-transparent hover:bg-slate-700 rounded-md transition-colors relative"
