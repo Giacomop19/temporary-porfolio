@@ -6,7 +6,7 @@ import { VerticalText } from "./verticalText";
 
 const IconSideNav = () => {
   return (
-    <div className="">
+    <div className="border-r-2 border-white-500">
       <SideNav />
     </div>
   );
@@ -23,7 +23,7 @@ const SideNav = () => {
   const [selected, setSelected] = useState(0);
 
   return (
-    <nav className="w-fit  p-4 flex flex-col items-center gap-2">
+    <nav className="w-fit p-4 flex flex-col items-center gap-2 no-scrollbar sticky top-0 z-50">
       <NavItem selected={selected === 0} id={0} setSelected={setSelected}>
         <VerticalText href="#about">ABOUT</VerticalText>
       </NavItem>
