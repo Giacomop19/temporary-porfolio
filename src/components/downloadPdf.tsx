@@ -4,8 +4,8 @@ import React, {useState} from "react"
 
 const PdfDownload = () => {
 
-    const [pdfUrl, setPdfUrl] = useState('../shared/Cv-Giacomo.pdf');
-    const [pdfName, setPdfName] = useState('Cv-Giacomo.pdf');
+    const [pdfUrl] = useState('../shared/Cv-Giacomo.pdf');
+    const [pdfName] = useState('Cv-Giacomo.pdf');
 
     const handleDownloadPdf = () => {
         const link = document.createElement('a');

@@ -6,17 +6,17 @@ export default function Intro(){
                     <div className="relative overflow-hidden w-fit">
                         <div>
                             <p className="pointer-events-auto text-4xl sm:text-6xl font-black text-zinc-100 md:text-8xl font-['-apple-system'] font-style:header">
-                                Hi, i'm Giacomo<span className="text-indigo-500">.</span>
+                                Hi, i am Giacomo<span className="text-indigo-500">.</span>
                             </p>
                             <br></br>
                             <p className="pointer-events-auto text-2xl sm:text-2xl font-black md:text-4xl font-['-apple-system'] font-style:normal" >
-                                I'm a <span className="text-indigo-500">Software Engineer</span>
+                                I am a <span className="text-indigo-500">Software Engineer</span>
                             </p>
                             <br></br>
                             <p className="pointer-events-auto font-['-apple-system'] font-style:normal" >
                                 I like bunch of stuff, especially programming and building software.<br></br>
-                                When i don't program, i play videogames and i'm very cool at gaming too.<br></br>
-                                I've gained significant experience in the field of software development <br></br>
+                                When i do not program, i play videogames and i am very cool at gaming too.<br></br>
+                                I have gained significant experience in the field of software development <br></br>
                                 and i dream one day i can build my own company!
                             </p>
                             <a href="mailto:giacomo.pumapillo@outlook.it?subject=Contact from portfolio">
