@@ -27,7 +27,7 @@ export default function Intro(){
                         </div>
                     </div>
                 </div>
-                <div style={{ gridTemplateColumns: `repeat(25, 1fr)` }} className="absolute right-0 opacity-90 grid max-w-[75%] -translate-y-[80%] pl-40 ">
+                <div style={{ gridTemplateColumns: `repeat(25, 1fr)` }} className="absolute right-0 opacity-90 grid max-w-[75%] -translate-y-[80%] pl-40 hide-on-mobile">
                     {
                         Array(500).fill(0).map((_, index) => (
                         <div key={index} data-index={index} className="group cursor-crosshair rounded-full p-2 transition-colors hover:bg-zinc-600">
@@ -41,6 +41,15 @@ export default function Intro(){
                     ))}
                 </div>
             </div>
+            <style>{`
+                @media (max-width: 768px){
+                    .hide-on-mobile{
+                    display: none;
+                    }
+                }
+                `}
+                </style>
         </section>
+        
     )
 }
