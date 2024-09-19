@@ -2,7 +2,7 @@ export default function About() {
     return (
         <section className="p-20 text-left">
             <div className="flex items-center gap-8 mb-12">
-                <p className="pointer-events-auto text-3xl sm:text-3xl font-black text-zinc-100 md:text-5xl font-['-apple-system'] font-style:header">
+                <p className="pointer-events-auto text-3xl sm:text-3xl font-black text-zinc-100 md:text-5xl font-black font-style:header">
                     About<span className="text-indigo-500">.</span>
                 </p>
                 <div className="w-full h-[1px] bg-zinc-700" style={{flexDirection:"row-reverse"}}></div>

@@ -5,22 +5,22 @@ export default function Intro(){
                 <div className="pointer-events-none relative z-10">
                     <div className="relative overflow-hidden w-fit">
                         <div>
-                            <p className="pointer-events-auto text-4xl sm:text-6xl font-black text-zinc-100 md:text-8xl font-['-apple-system'] font-style:header">
-                                Hi, i am Giacomo<span className="text-indigo-500">.</span>
+                            <p className="pointer-events-auto text-4xl sm:text-6xl text-zinc-100 md:text-8xl font-black font-style:title">
+                                Hi, I'm Giacomo<span className="text-indigo-500">.</span>
                             </p>
                             <br></br>
-                            <p className="pointer-events-auto text-2xl sm:text-2xl font-black md:text-4xl font-['-apple-system'] font-style:normal" >
+                            <p className="pointer-events-auto text-2xl sm:text-2xl  md:text-4xl font-black font-style:normal" >
                                 I am a <span className="text-indigo-500">Software Engineer</span>
                             </p>
                             <br></br>
-                            <p className="pointer-events-auto font-['-apple-system'] font-style:normal" >
+                            <p className="pointer-events-auto font-regular font-style:normal" >
                                 I like bunch of stuff, especially programming and building software.<br></br>
                                 When i do not program, i play videogames and i am very cool at gaming too.<br></br>
                                 I have gained significant experience in the field of software development <br></br>
                                 and i dream one day i can build my own company!
                             </p>
                             <a href="mailto:giacomo.pumapillo@outlook.it?subject=Contact from portfolio">
-                                <button className="relative z-0 flex items-center gap-2 overflow-hidden font-['-apple-system'] rounded-md border-[1px] px-4 py-2 font-medium text-sm transition-all duration-300 before:absolute before:inset-0 before:-z-10 before:translate-x-[150%] before:translate-y-[150%] before:scale-[2.5] before:rounded-[100%] before:transition-transform before:duration-1000  hover:before:translate-x-[0%] hover:before:translate-y-[0%] active:scale-95 pointer-events-auto before:bg-indigo-700 hover:text-white hover:border-indigo-700 mt-4 bg-indigo-500 text-zinc-100 border-indigo-500 md:mt-6">
+                                <button className="relative font-regular z-0 flex items-center gap-2 overflow-hidden  rounded-md border-[1px] px-4 py-2 font-medium text-sm transition-all duration-300 before:absolute before:inset-0 before:-z-10 before:translate-x-[150%] before:translate-y-[150%] before:scale-[2.5] before:rounded-[100%] before:transition-transform before:duration-1000  hover:before:translate-x-[0%] hover:before:translate-y-[0%] active:scale-95 pointer-events-auto before:bg-indigo-700 hover:text-white hover:border-indigo-700 mt-4 bg-indigo-500 text-zinc-100 border-indigo-500 md:mt-6">
                                     Email me
                                 </button>
                             </a>

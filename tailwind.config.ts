@@ -12,6 +12,12 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontFamily:{
+        regular : ['var(--font-inter-regular)'],
+        bold : ['var(--font-inter-bold)'],
+        dune : ['var(--font-dune)'],
+        black : ['var(--font-inter-black)']
+      }
     },
   },
   plugins: [],
