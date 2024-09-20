@@ -5,24 +5,19 @@ import About from "./about/page";
 
 export default function Home() {
   return (
-      <div>
-        
-          <div id="intro">
-            <Intro/>
-          </div>
-          <div id="about">
-            <About/>
-          </div>
-          <div id="projects">
-            <Projects/>
-          </div>
-          <div id="experience">
-            <Experience/>
-          </div>
-          
-        
+    <div>
+      <div id="intro">
+        <Intro/>
       </div>
-    
-    
+      <div id="about">
+        <About/>
+      </div>
+      <div id="projects">
+        <Projects/>
+      </div>
+      <div id="experience">
+        <Experience/>
+      </div>
+    </div>
   );
 }

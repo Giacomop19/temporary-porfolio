@@ -11,26 +11,27 @@ export default function About() {
                 <div className="space-y-4">
                     <div className="relative overflow-hidden w-fit">
                         <p className="text-lg text-zinc-100">
-                            Lorem ipsum Lorem ipsumLorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum 
-                            Lorem ipsum Lorem ipsum
+                            Nerdy dude with obsession for fixing stuff. <br></br>
+                            A videogamer <br></br>
+                            An engineer for whom technology is love before a profession<br></br>
+                            A dreamer , reader and lover of tasty food!
                         </p>
                     </div>
                     <div className="relative overflow-hidden w-fit">
                         <p className="text-lg text-zinc-100">
-                        Lorem ipsumLorem ipsum Lorem ipsum v Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-                        Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum v 
+                            I specialize in full stack development with Java SpringBoot and frontend frameworks such as Angular or NextJS <br></br>
+                            but i can build with whatever tool fits for the right job.
                         </p>
                     </div>
                     <div className="relative overflow-hidden w-fit">
                         <p className="text-lg text-zinc-100">
-                        Lorem ipsumLorem ipsum Lorem ipsum v Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-                        Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum v 
+                            I am actually working for Relewant in Switzerland, and i am feeling good.<br></br>
                         </p>
                     </div>
                     <div className="relative overflow-hidden w-fit">
                         <p className="text-lg text-zinc-100">
-                        Lorem ipsumLorem ipsum Lorem ipsum v Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum
-                        Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum v 
+                            Outside of work i love videogames, cooking and hiking especially with my dog Zelda! <br></br>
+                            I am also studying Computer Science and a bit of business fundamentals.
                         </p>
                     </div>
                 </div>
@@ -57,10 +58,10 @@ export default function About() {
                                     <span className="text-xs px-2 py-1 rounded bg-zinc-700">React</span>
                                     <span className="text-xs px-2 py-1 rounded bg-zinc-700">Redux</span>
                                     <span className="text-xs px-2 py-1 rounded bg-zinc-700">Java</span>
-                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">Spring</span>
+                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">SpringBoot</span>
                                     <span className="text-xs px-2 py-1 rounded bg-zinc-700">OpenApi</span>
                                     <span className="text-xs px-2 py-1 rounded bg-zinc-700">Swagger</span>
-                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">Oracle Db</span>
+                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">OracleDB</span>
                                     <span className="text-xs px-2 py-1 rounded bg-zinc-700">MongoDB</span>
                                     <span className="text-xs px-2 py-1 rounded bg-zinc-700">Gitlab</span>
                                     <span className="text-xs px-2 py-1 rounded bg-zinc-700">Jira</span>
@@ -87,12 +88,13 @@ export default function About() {
                                 <div className="flex flex-wrap gap-2 mb-12">
                                     <span className="text-xs px-2 py-1 rounded bg-zinc-700">React Native</span>
                                     <span className="text-xs px-2 py-1 rounded bg-zinc-700">NextJs</span>
+                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">GraphQL</span>
                                     <span className="text-xs px-2 py-1 rounded bg-zinc-700">Expo</span>
                                     <span className="text-xs px-2 py-1 rounded bg-zinc-700">NodeJs</span>
                                     <span className="text-xs px-2 py-1 rounded bg-zinc-700">Express</span>
                                     <span className="text-xs px-2 py-1 rounded bg-zinc-700">Terraform</span>
                                     <span className="text-xs px-2 py-1 rounded bg-zinc-700">Python</span>
-                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">Flask</span>
+                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">Django</span>
                                 </div>
                             </div>
                         </div>
