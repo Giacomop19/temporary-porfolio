@@ -6,7 +6,7 @@ export default function Intro(){
                     <div className="relative overflow-hidden w-fit">
                         <div>
                             <p className="pointer-events-auto text-4xl sm:text-6xl text-zinc-100 md:text-8xl font-black font-style:title">
-                                Hi, I'm Giacomo<span className="text-indigo-500">.</span>
+                                Hi, I&#39;m Giacomo<span className="text-indigo-500">.</span>
                             </p>
                             <br></br>
                             <p className="pointer-events-auto text-2xl sm:text-2xl  md:text-4xl font-black font-style:normal" >
