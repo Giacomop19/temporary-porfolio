@@ -4,7 +4,7 @@ import React, {useState} from "react"
 
 const PdfDownload = () => {
 
-    const [pdfUrl] = useState('../shared/Cv-Giacomo.pdf');
+    const [pdfUrl] = useState('./Cv-Giacomo.pdf');
     const [pdfName] = useState('Cv-Giacomo.pdf');
 
     const handleDownloadPdf = () => {
@@ -12,6 +12,7 @@ const PdfDownload = () => {
         link.href = pdfUrl;
         link.download = pdfName;
         link.click();
+        
     }
     return (
         <button 
