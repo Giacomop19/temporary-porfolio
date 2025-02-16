@@ -25,7 +25,7 @@ export default function About() {
                     </div>
                     <div className="relative overflow-hidden w-fit">
                         <p className="text-lg text-zinc-100">
-                            I am actually working for Relewant in Switzerland, and i am feeling good.<br></br>
+                            I am actually working for Avaloq in Switzerland, and i am feeling good.<br></br>
                         </p>
                     </div>
                     <div className="relative overflow-hidden w-fit">

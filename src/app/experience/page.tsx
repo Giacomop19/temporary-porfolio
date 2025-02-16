@@ -57,7 +57,7 @@ export default function Experience(){
                         <div style={{opacity: 1, transform: "none"}}><span className="font-bold text-xl">Relewant</span></div>
                     </div>
                     <div className="relative w-fit">
-                        <div style={{opacity: 1, transform: "none"}}><span className="font-bold ">07/2023 - 12/2024</span></div>
+                        <div style={{opacity: 1, transform: "none"}}><span className="font-bold ">06/2023 - 12/2024</span></div>
                     </div>
                 </div>
                 <div className="flex items-center justify-between mb-4">
@@ -161,9 +161,11 @@ export default function Experience(){
                     <div style={{opacity: 1, transform: "none"}}>
                         <div className="flex flex-wrap gap-2">
                             <span className="text-xs px-2 py-1 rounded bg-zinc-700">Angular</span>
-                            <span className="text-xs px-2 py-1 rounded bg-zinc-700">ReactJs</span>
-                            <span className="text-xs px-2 py-1 rounded bg-zinc-700">MongoDB</span>
+                            <span className="text-xs px-2 py-1 rounded bg-zinc-700">React</span>
+                            <span className="text-xs px-2 py-1 rounded bg-zinc-700">Java / Spring</span>
+                            <span className="text-xs px-2 py-1 rounded bg-zinc-700">PostgreSql</span>
                             <span className="text-xs px-2 py-1 rounded bg-zinc-700">Firebase</span>
+                            <span className="text-xs px-2 py-1 rounded bg-zinc-700">Maven</span>
                         </div>
                     </div>
                     <div className="absolute bottom-1 left-0 right-0 top-1 z-20 bg-indigo-500" style={{left: "100%"}}></div>
@@ -181,7 +183,7 @@ export default function Experience(){
                 </div>
                 <div className="flex items-center justify-between mb-4">
                     <div className="relative w-fit">
-                        <div style={{opacity: 1, transform: "none"}}><span className="text-indigo-300 font-bold">Jr Software Developer</span></div>
+                        <div style={{opacity: 1, transform: "none"}}><span className="text-indigo-300 font-bold">Software Developer</span></div>
                         </div>
                     <div className="relative w-fit">
                         <div style={{opacity: 1, transform: "none"}}><span className="font-bold">Italy</span></div>
@@ -198,6 +200,7 @@ export default function Experience(){
                     <div style={{opacity: 1, transform: "none"}}>
                         <div className="flex flex-wrap gap-2">
                             <span className="text-xs px-2 py-1 rounded bg-zinc-700">ASP .NET MVC</span>
+                            <span className="text-xs px-2 py-1 rounded bg-zinc-700">Angular</span>
                             <span className="text-xs px-2 py-1 rounded bg-zinc-700">Entity framework</span>
                             <span className="text-xs px-2 py-1 rounded bg-zinc-700">HTML - CSS</span>
                         </div>
