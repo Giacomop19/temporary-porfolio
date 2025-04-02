@@ -57,7 +57,7 @@ export default function Experience(){
                         <div style={{opacity: 1, transform: "none"}}><span className="font-bold text-xl">Relewant</span></div>
                     </div>
                     <div className="relative w-fit">
-                        <div style={{opacity: 1, transform: "none"}}><span className="font-bold ">06/2023 - 12/2024</span></div>
+                        <div style={{opacity: 1, transform: "none"}}><span className="font-bold ">06/2022 - 12/2024</span></div>
                     </div>
                 </div>
                 <div className="flex items-center justify-between mb-4">
@@ -95,10 +95,10 @@ export default function Experience(){
             <div className="mb-6 border-b pb-6 border-zinc-700">
                 <div className="flex items-center justify-between mb-2 gap-10">
                     <div className="relative w-fit">
-                        <div style={{opacity: 1, transform: "none"}}><span className="font-bold text-xl">Alten Italy</span></div>
+                        <div style={{opacity: 1, transform: "none"}}><span className="font-bold text-xl">Alten</span></div>
                     </div>
                     <div className="relative w-fit">
-                        <div style={{opacity: 1, transform: "none"}}><span className="font-bold ">01/2022 - 06/2023</span></div>
+                        <div style={{opacity: 1, transform: "none"}}><span className="font-bold ">01/2020 - 06/2022</span></div>
                     </div>
                 </div>
                 <div className="flex items-center justify-between mb-4">
@@ -127,82 +127,6 @@ export default function Experience(){
                             <span className="text-xs px-2 py-1 rounded bg-zinc-700">Jenkins</span>
                             <span className="text-xs px-2 py-1 rounded bg-zinc-700">Kibana</span>
                             <span className="text-xs px-2 py-1 rounded bg-zinc-700">Docker</span>
-                        </div>
-                    </div>
-                    <div className="absolute bottom-1 left-0 right-0 top-1 z-20 bg-indigo-500" style={{left: "100%"}}></div>
-                </div>
-            </div>
-            {/* --- EXPERIENCE 3 -- */}
-            <div className="mb-6 border-b pb-6 border-zinc-700">
-                <div className="flex items-center justify-between mb-2 gap-10">
-                    <div className="relative w-fit">
-                        <div style={{opacity: 1, transform: "none"}}><span className="font-bold text-xl">Integris</span></div>
-                    </div>
-                    <div className="relative w-fit">
-                        <div style={{opacity: 1, transform: "none"}}><span className="font-bold ">01/2021 - 12/2021</span></div>
-                    </div>
-                </div>
-                <div className="flex items-center justify-between mb-4">
-                    <div className="relative w-fit">
-                        <div style={{opacity: 1, transform: "none"}}><span className="text-indigo-300 font-bold">Software Developer</span></div>
-                        </div>
-                    <div className="relative w-fit">
-                        <div style={{opacity: 1, transform: "none"}}><span className="font-bold">Italy</span></div>
-                    </div>
-                </div>
-                <div className="relative w-fit">
-                    <div style={{opacity: 1, transform: "none"}}>
-                        <p className="mb-6 text-zinc-300 leading-relaxed">During this period, I had the opportunity to work as an external contractor in the software development team of Bridgestone, a web-based application used to store and manage customer services information.
-                        </p>
-                    </div>
-                    <div className="absolute bottom-1 left-0 right-0 top-1 z-20 bg-indigo-500" style={{left: "100%"}}></div>
-                </div>
-                <div className="relative w-fit">
-                    <div style={{opacity: 1, transform: "none"}}>
-                        <div className="flex flex-wrap gap-2">
-                            <span className="text-xs px-2 py-1 rounded bg-zinc-700">Angular</span>
-                            <span className="text-xs px-2 py-1 rounded bg-zinc-700">React</span>
-                            <span className="text-xs px-2 py-1 rounded bg-zinc-700">Java / Spring</span>
-                            <span className="text-xs px-2 py-1 rounded bg-zinc-700">PostgreSql</span>
-                            <span className="text-xs px-2 py-1 rounded bg-zinc-700">Firebase</span>
-                            <span className="text-xs px-2 py-1 rounded bg-zinc-700">Maven</span>
-                        </div>
-                    </div>
-                    <div className="absolute bottom-1 left-0 right-0 top-1 z-20 bg-indigo-500" style={{left: "100%"}}></div>
-                </div>
-            </div>
-            {/* --- EXPERIENCE 4 -- */}
-            <div className="mb-6 border-b pb-6 border-zinc-700">
-                <div className="flex items-center justify-between mb-2 gap-10">
-                    <div className="relative w-fit">
-                        <div style={{opacity: 1, transform: "none"}}><span className="font-bold text-xl">Trace One</span></div>
-                    </div>
-                    <div className="relative w-fit">
-                        <div style={{opacity: 1, transform: "none"}}><span className="font-bold ">01/2020 - 12/2020</span></div>
-                    </div>
-                </div>
-                <div className="flex items-center justify-between mb-4">
-                    <div className="relative w-fit">
-                        <div style={{opacity: 1, transform: "none"}}><span className="text-indigo-300 font-bold">Software Developer</span></div>
-                        </div>
-                    <div className="relative w-fit">
-                        <div style={{opacity: 1, transform: "none"}}><span className="font-bold">Italy</span></div>
-                    </div>
-                </div>
-                <div className="relative w-fit">
-                    <div style={{opacity: 1, transform: "none"}}>
-                        <p className="mb-6 text-zinc-300 leading-relaxed">I developed a Software application aimed to perform the business core. Main development using C# and .NET framework.
-                        </p>
-                    </div>
-                    <div className="absolute bottom-1 left-0 right-0 top-1 z-20 bg-indigo-500" style={{left: "100%"}}></div>
-                </div>
-                <div className="relative w-fit">
-                    <div style={{opacity: 1, transform: "none"}}>
-                        <div className="flex flex-wrap gap-2">
-                            <span className="text-xs px-2 py-1 rounded bg-zinc-700">ASP .NET MVC</span>
-                            <span className="text-xs px-2 py-1 rounded bg-zinc-700">Angular</span>
-                            <span className="text-xs px-2 py-1 rounded bg-zinc-700">Entity framework</span>
-                            <span className="text-xs px-2 py-1 rounded bg-zinc-700">HTML - CSS</span>
                         </div>
                     </div>
                     <div className="absolute bottom-1 left-0 right-0 top-1 z-20 bg-indigo-500" style={{left: "100%"}}></div>
