@@ -31,7 +31,7 @@ export default function About() {
                     <div className="relative overflow-hidden w-fit">
                         <p className="text-lg text-zinc-100">
                             Outside of work i love videogames, cooking and hiking especially with my dog Zelda! <br></br>
-                            I am also studying Computer Science and a bit of business fundamentals.
+                            I am also studying business fundamentals.
                         </p>
                     </div>
                 </div>
@@ -53,18 +53,19 @@ export default function About() {
                                     <span className="font-bold ml-2">Use at work</span>
                                 </h4>
                                 <div className="flex flex-wrap gap-2 mb-12">
-                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">TypeScript</span>
-                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">Angular</span>
-                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">React</span>
-                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">Redux</span>
+                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">Kotlin</span>
+                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">Typescript</span>
                                     <span className="text-xs px-2 py-1 rounded bg-zinc-700">Java</span>
+                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">Kotlin Multiplatform</span>
+                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">React-NextJS</span>
+                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">Angular</span>
                                     <span className="text-xs px-2 py-1 rounded bg-zinc-700">SpringBoot</span>
-                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">OpenApi</span>
-                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">Swagger</span>
                                     <span className="text-xs px-2 py-1 rounded bg-zinc-700">OracleDB</span>
                                     <span className="text-xs px-2 py-1 rounded bg-zinc-700">MongoDB</span>
-                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">Gitlab</span>
-                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">Jira</span>
+                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">Android Studio</span>
+                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">XCode</span>
+                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">Kubernetes</span>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -87,14 +88,12 @@ export default function About() {
                                 </h4>
                                 <div className="flex flex-wrap gap-2 mb-12">
                                     <span className="text-xs px-2 py-1 rounded bg-zinc-700">React Native</span>
-                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">NextJs</span>
+                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">KTor</span>
                                     <span className="text-xs px-2 py-1 rounded bg-zinc-700">GraphQL</span>
                                     <span className="text-xs px-2 py-1 rounded bg-zinc-700">Expo</span>
-                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">NodeJs</span>
-                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">Express</span>
-                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">Terraform</span>
+                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">NodeJs-Express</span>
+                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">GO</span>
                                     <span className="text-xs px-2 py-1 rounded bg-zinc-700">Python</span>
-                                    <span className="text-xs px-2 py-1 rounded bg-zinc-700">Django</span>
                                 </div>
                             </div>
                         </div>

@@ -29,21 +29,21 @@ export default function Experience(){
                 </div>
                 <div className="relative w-fit">
                     <div style={{opacity: 1, transform: "none"}}>
-                        <p className="mb-6 text-zinc-300 leading-relaxed">I develop main digital services of banking in Switzerland.
+                        <p className="mb-6 text-zinc-300 leading-relaxed">Developing cross-platform mobile and backend applications using Kotlin Multiplatform ensuring high performance and code reusability across Android and iOs environments
                         </p>
                     </div>
                 </div>
                 <div className="relative w-fit">
                     <div style={{opacity: 1, transform: "none"}}>
                         <div className="flex flex-wrap gap-2">
-                            <span className="text-xs px-2 py-1 rounded bg-zinc-700">Angular</span>
                             <span className="text-xs px-2 py-1 rounded bg-zinc-700">Java</span>
                             <span className="text-xs px-2 py-1 rounded bg-zinc-700">Kotlin</span>
                             <span className="text-xs px-2 py-1 rounded bg-zinc-700">SpringBoot</span>
+                            <span className="text-xs px-2 py-1 rounded bg-zinc-700">Kotlin Multiplatform</span>
                             <span className="text-xs px-2 py-1 rounded bg-zinc-700">OracleDB</span>
-                            <span className="text-xs px-2 py-1 rounded bg-zinc-700">OpenApi</span>
-                            <span className="text-xs px-2 py-1 rounded bg-zinc-700">Maven</span>
+                            <span className="text-xs px-2 py-1 rounded bg-zinc-700">Kubernetes</span>
                             <span className="text-xs px-2 py-1 rounded bg-zinc-700">Docker</span>
+                            <span className="text-xs px-2 py-1 rounded bg-zinc-700">XCode</span>
                             <span className="text-xs px-2 py-1 rounded bg-zinc-700">Android Studio</span>
                         </div>
                     </div>
@@ -70,8 +70,7 @@ export default function Experience(){
                 </div>
                 <div className="relative w-fit">
                     <div style={{opacity: 1, transform: "none"}}>
-                        <p className="mb-6 text-zinc-300 leading-relaxed">I help develop a software for the italian regions that helps employment centres manage the hiring of people with disabilities. It also checks that companies are compliant according to current regulations.
-                            I do actually build API and user interface.
+                        <p className="mb-6 text-zinc-300 leading-relaxed">Developed and designed a software that helps employment centres manage the hiring of people with disabilities. It also checks that companies are compliant according to current regulations.
                         </p>
                     </div>
                     <div className="absolute bottom-1 left-0 right-0 top-1 z-20 bg-indigo-500" style={{left: "100%"}}></div>
